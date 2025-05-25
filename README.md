@@ -24,7 +24,7 @@ A cross-platform mobile chatbot application powered by Google's Gemini AI, built
 1. **Clone the repository**
    ```bash
    git clone https://github.com/karancodex/Codex-AI.git
-   cd codex-ai-chatbot
+   cd Codex-AI
 Install dependencies
 
 bash
@@ -125,13 +125,3 @@ email- reachtokarankumar@gmail.com
 
 Project Link: https://github.com/karancodex/Codex-AI.git
 
-
-## Additional Recommendations:
-
-1. **Add screenshots**: Create a `/screenshots` folder and add images of your app
-2. **Demo video**: Consider adding a link to a screen recording
-3. **Badges**: Add shields.io badges for version, license, etc.
-4. **Roadmap**: Add a future features section if applicable
-5. **Acknowledgments**: Credit any libraries or tutorials you used
-
-Would you like me to modify any specific section or add more details about particular aspects of the project?
